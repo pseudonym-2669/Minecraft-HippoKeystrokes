@@ -1,0 +1,16 @@
+modLoader="javafml"
+loaderVersion="[36.0.1,)"
+license="All Rights Reserved"
+[[mods]]
+modId="keystrokeshippo"
+version="1.0.0"
+displayName="KeystrokesHippo Mod"
+loaderVersion="[36.0.1,)"
+issueTrackerURL=""
+[[dependencies.keystrokesb]]
+    modId="forge"
+    versionRange="[36.0.1,)"
+    ordering="NONE"
+    side="BOTH"
+
+    mandatory=true
