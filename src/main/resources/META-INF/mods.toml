@@ -1,6 +1,6 @@
 modLoader="javafml"
 loaderVersion="[36.0.1,)"
-license="All Rights Reserved"
+license="MIT"
 [[mods]]
 modId="keystrokeshippo"
 version="1.0.0"
